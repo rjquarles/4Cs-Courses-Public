@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="Contact-Me" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title> How to Contact Me</title>
+  <introduction>
+    <p>
+        When you need to get in touch with me, the best way to do so will be through email. 
+        Please include the class &amp; section number in the subject line of your email. 
+        Please note that I check and respond to emails between the hours of 8am and 5pm, 
+        Mondays through Thursdays. 
+
+        <table>
+  <title>Contact Information</title>
+  <tabular>
+    <row>
+      <cell>
+        Office
+      </cell>
+      <cell>
+        SE 116
+      </cell>
+    </row>
+    <row>
+      <cell>
+        Office Phone
+      </cell>
+      <cell>
+        774-330-4579
+      </cell>
+    </row>
+    <row>
+      <cell>
+        Email
+      </cell>
+      <cell>
+        rquarles@capecod.edu
+      </cell>
+    </row>
+  </tabular>
+</table>
+    </p>
+  </introduction>
+</section>

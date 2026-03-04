@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section xml:id="syllabus" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>MAT 025 Syllabus</title>
+
+    <xi:include href=".Overview.ptx" />
+    <xi:include href=".Material.ptx" />
+    <xi:include href="./common/Attendance.ptx" />
+    <xi:include href=".Grading Scheme.ptx" />
+    <xi:include href="./common/Contact-Me.ptx" />
+    <xi:include href="./common/Global Make-up Policy.ptx" />
+    <xi:include href="./common/Accommodations.ptx" />
+    <xi:include href="./common/Common Statements.ptx" />
+    <xi:include href=".Student Learning Outcomes.ptx" />
+    <xi:include href=".Schedule.ptx" />
+    <xi:include href="./common/FAQ.ptx" />
+</section>

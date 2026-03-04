@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="grading-scheme" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title> Grading Overview</title>
+  <introduction>
+    <p>
+        <table><title>Grading Scheme Table</title>
+  <tabular>
+    <row>
+      <cell>
+        10%
+      </cell>
+      <cell>
+        Homework Assignments
+      </cell>
+    </row>
+    <row>
+      <cell>
+        15%
+      </cell>
+      <cell>
+        Engagement &amp; Reflections
+      </cell>
+    </row>
+    <row>
+      <cell>
+        15%
+      </cell>
+      <cell>
+        Quizzes
+      </cell>
+    </row>
+    <row>
+      <cell>
+        30%
+      </cell>
+      <cell>
+        Midterms (Celebrations of Learning)
+      </cell>
+    </row>
+    <row>
+      <cell>
+        30%
+      </cell>
+      <cell>
+        Final Exam
+      </cell>
+    </row>
+  </tabular>
+</table>
+        The maximum grade cutoff for any flavor of A will be 90%, 80% for any flavor of B, 70% for any C 
+        and 60% for any D. Plusses and minuses will be assigned at the discretion of the instructor at 
+        the end of the semester.
+    </p>
+  </introduction>
+
+  <subsection xml:id="Celebrations-of-Learning-description">
+    <title>Celebrations of Learning</title>
+    <p>
+        There will be 3-5 Celebrations of Learning throughout the semester, including a cumulative Final, which are opportunities to display your 
+        mastery of the skills we will practice in class. There will be no make-up assessments for these. If you think you will need to miss 
+        such an assignment, you may be permitted to take the exam early but you must work this out with me beforehand. Unless 
+        otherwise noted, you will work on these on your own, and will not be permitted use use any outside resources.
+
+        <table>
+	<title>Proposed Exam Dates</title>
+	<tabular>
+		<row>
+			<cell>
+				Exam 1
+			</cell>
+			<cell>
+				Feb 18
+			</cell>
+		</row>
+		<row>
+			<cell>
+				Exam 2
+			</cell>
+			<cell>
+				March 23
+			</cell>
+		</row>
+		<row>
+			<cell>
+				Exam 3
+			</cell>
+			<cell>
+				April 22
+			</cell>
+		</row>
+		<row>
+			<cell>
+				Final Exam
+			</cell>
+			<cell>
+				Varies By Section
+			</cell>
+		</row>
+	</tabular>
+</table>
+    </p>
+  </subsection>
+
+  <subsection xml:id="quizzes-description">
+    <title>Quizzes</title>
+    <p>
+        Through the semester you will be asked to complete quizzes over material during class. Unless otherwise noted: you will work on these on 
+        your own, will not be permitted to use any outside resources, and they must be completed in class. 
+    </p>
+  </subsection>
+
+  <subsection xml:id="homework-description">
+    <title>Homework Assignments</title>
+    <p>
+        Homework will be assigned, collected and graded regularly through MyLab. 
+        You are encouraged to work collaboratively on your homework assignments, however, 
+        the work you turn in must be your own and any collaboration must be acknowledged. 
+        In addition to the assigned exercises from the text, your daily assignment is to read the appropriate section of the text before class.
+    </p>
+  </subsection>
+
+  <subsection xml:id="reflections-description">
+    <title>Reflections</title>
+    <p>
+        At various points in the semester, you will be asked to reflect on your progress, the class, and your skills as a learner. 
+        There will be assignments that require you to think about these things, and respond to some prompts about them. 
+    </p>
+  </subsection>
+
+  <subsection xml:id="engagement-description">
+    <title>Engagement</title>
+    <p>
+        Since your participation is expected you should do your best to participate well.  This includes asking questions during group discussions 
+        and while you are working in groups, and may also include taking a turn to write on the board.  Simply attending class every day and working 
+        with your group mates will likely earn you somewhere between 60% and 70% as an engagement grade, so you should do your best to be an active 
+        participant in the discussions that will come up as we wrestle with new concepts. 
+    </p>
+  </subsection>
+</section>

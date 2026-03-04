@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="student-outcomes" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title> Student Learning Outcomes (instructional objectives: intellectual skills)</title>
+  <introduction>
+    <p>
+        Upon successful completion of this course, students are able to do the following: 
+        Perform addition, subtraction, multiplication, and division with whole numbers, integers, fractions, mixed numbers, 
+        and decimals. In addition, students should be able to:
+        <ul>
+            <li>Evaluate applied whole number, integer, fraction, decimal, and percent word problems.</li>
+            <li>Evaluate ratios, rates, and proportions.</li>
+            <li>Evaluate percent notation.</li>
+            <li>Convert between whole numbers, integers, fractions, decimals, and percents.</li>
+            <li>Perform order of operations.</li>
+            <li>Apply rounding and estimation.</li>
+            <li>Evaluate exponents.</li>
+            <li>Evaluate algebraic expressions and formulas.</li>
+            <li>Solve simple equations.</li>
+            <li>Solve multi-step equations.</li>
+            <li>Solve equations involving fractional terms.</li>
+            <li>Solve equations involving decimal terms.</li>
+            <li>Evaluate square roots.</li>
+            <li>Convert between and within English/American and metric units of measure.</li>
+            <li>Evaluate geometric areas and perimeters.</li>
+            <li>Interpret and graph ordered pairs.</li>
+            <li>Evaluate scientific notation.</li>
+            <li>Define math vocabulary.</li>
+            <li>Apply study skills.</li>
+            <li>Solve application problems.</li>
+        </ul>
+    </p>
+  </introduction>
+</section>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<pretext xmlns:xi="http://www.w3.org/2001/XInclude">
+
+  <xi:include href="./docinfo.ptx" />
+  <book xml:id="main-page">
+    <title>Dr Q's Courses</title>
+    <subtitle>Cape Cod Community College</subtitle>
+
+    <!-- <xi:include href="./frontmatter.ptx" /> -->
+
+<section xml:id="MAT025-S2026" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title> MAT 025 - Spring 2026</title>
+  <xi:include href="./Section 02.ptx" />
+  <xi:include href="./Section 04.ptx" />
+  <xi:include href="./syllabus/syllabus.ptx" />
+</section>
+
+  </book>
+</pretext>

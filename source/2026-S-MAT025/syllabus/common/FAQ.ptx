@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="global-FAQ" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>FAQ</title>
+<question>
+  <title>This is an in-person course. Why do I need MyLab access?</title>
+  <p>
+    The course will be run in person, and we will spend class time on discussing the material and working on practice problems together. MyLab Math is for the weekly homework submissions.
+  </p>
+</question>
+<question>
+  <title>Can I get extra credit for XYZ?</title>
+  <p>
+   Nope. I do not allow extra credit assignments for anything. If you want points for an assignment, please do it when assigned.
+  </p>
+</question>
+<question>
+  <title>I forgot to submit an assignment, can I submit it for partial credit?</title>
+  <p>
+     We do not allow late work in this course and here is why: 
+     if I give you more time to work on an assignment than I give to the rest of the class, I have now treated the rest of the class 
+     unfairly. It is simply not equitable to allow you to turn in an assignment after the due date.  I do understand that life happens 
+     though, and will likely drop a small number of homework assignments at the end of the semester to account for when you're unable to 
+     turn something in on time.
+  </p>
+</question>
+<question>
+  <title>Can this document be updated?</title>
+  <p>
+    This document can be updated as needed.
+  </p>
+</question>
+</section>
