@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="MAT025-S2026" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title> Section Specific Information</title>
+  <introduction>
+    <p>
+        You may view information about the course specific to your section below. Please note that the information provided is subject to change. 
+        Always refer to the most recent version of the syllabus for the most up-to-date information.
+
+        <table>
+        <title>Course Information</title>
+	    <tabular>
+		<row>
+			<cell>
+				Instructor Name
+			</cell>
+			<cell>
+				Dr. Robert Quarles
+			</cell>
+		</row>
+		<row>
+			<cell>
+				Office Hours
+			</cell>
+			<cell>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				M/W
+			</cell>
+			<cell>
+				9:45am - 10:45am / 1:20pm - 1:50pm
+			</cell>
+		</row>
+		<row>
+			<cell>
+				T
+			</cell>
+			<cell>
+				9:45am - 10:45am (Virtual)
+			</cell>
+		</row>
+		<row>
+			<cell>
+				Office
+			</cell>
+			<cell>
+				SE 116
+			</cell>
+		</row>
+		<row>
+			<cell>
+				Email
+			</cell>
+			<cell>
+				rquarles@capecod.edu
+			</cell>
+		</row>
+		<row>
+			<cell>
+				Prerequisite
+			</cell>
+			<cell>
+				None
+			</cell>
+		</row>
+		<row>
+			<cell>
+				Credits
+			</cell>
+			<cell>
+				3 (non-degree)
+			</cell>
+		</row>
+		<row>
+			<cell>
+				Satisfies General Ed Requirement?
+			</cell>
+			<cell>
+				No
+			</cell>
+		</row>
+	    </tabular>
+        </table>
+    </p>
+  </introduction>
+
+  <xi:include href="./Section 02.ptx" />
+  <xi:include href="./Section 04.ptx" />
+</section>

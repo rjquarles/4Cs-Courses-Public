@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="common-statements" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title> Other Policies</title>
+  <subsection xml:id="group-work">
+    <title>Group Work</title>
+    <p>
+        During class, we will often take time to work in groups. Just like in a professional environment, 
+        you will be expected to work with others and communicate your ideas to them. I also encourage you to work in groups on your homework 
+        and to discuss the problems with one another. Each individual should write up and turn in their own solutions.
+    </p>
+  </subsection>
+
+  <subsection xml:id="diversity-in-the-classroom">
+    <title>Diversity and Inclusivity Statement</title>
+    <p>
+        I consider this classroom to be a place where you will be treated with respect, and I welcome individuals of all ages, backgrounds, 
+        beliefs, ethnicities, genders, gender identities, gender expressions, national origins, religious affiliations, sexual orientations, 
+        ability - and other visible and non-visible differences. All members of this class are expected to contribute to a respectful, 
+        welcoming and inclusive environment for every other member of the class. 
+    </p>
+  </subsection>
+
+  <subsection xml:id="academic-integrity">
+    <title>Academic Integrity</title>
+    <p>
+        This course adheres to the <url href="https://www.capecod.edu/handbook/student-code-of-conduct/">CCCC Code of Conduct</url>.
+    </p>
+  </subsection>
+
+  <subsection xml:id="ai-policy">
+    <title>AI Policy</title>
+    <p>
+        As an instructor, it is my job to evaluate <em>your</em> understanding of, and proficiency with, the material. Learning 
+        how and why we do things a certain way, as well as obtaining a healthy amount of hands-on practice, 
+        is integral to your learning in this course. So, for this course, it is never permissible to utilize generative AI to 
+        create content which you intend to submit as your own work. Anything you submit must be a genuine reflection of your own understanding 
+        of the material, submitted in good faith.
+    </p>
+  </subsection>
+
+  <subsection xml:id="technology">
+    <title>Technology Use in the Classroom</title>
+    <p>
+        You are expected to keep your phone, laptop, tablet, headphones, and all other devices put away at all times during class. 
+        During quizzes and exams, you must remove and stow any other smart devices (such as apple watches). Failure to remove such devices, or 
+        otherwise accessing such devices, during assessments will result in an automatic zero. At the instructor's discretion, you 
+        may be allowed to use a tablet for notes. This allowance can be revoked at any time, and will automatically be revoked if such a 
+        device is used for anything other than taking notes.
+    </p>
+  </subsection>
+  
+</section>

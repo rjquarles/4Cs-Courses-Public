@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="overview" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title> Overview</title>
+  <introduction>
+    <p>A fundamental course in prerequisite algebraic topics designed to help prepare students for the study 
+        of introductory algebra and its applications. Topics include: introduction to, operation with, 
+        and application of whole numbers, integers, fractions, and decimals; exponentiation, rooting, 
+        order of operations, ratios, rates, proportions, unit conversions, percents and their applications; 
+        an introduction to algebraic expressions and equations, applications of algebraic expressions and 
+        equations, geometry, and measurement. (5 contact hours)</p>
+  </introduction>
+
+  <xi:include href="./S2026/S2026.ptx" />
+</section>
